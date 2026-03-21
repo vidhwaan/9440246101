@@ -1,0 +1,28 @@
+{
+  "firstName": "Nithin",
+  "lastName": "Gidigi",
+  "phone": "9440246101",
+  "instrument": "Saxophone",
+  "location": {
+    "state": "andhra-pradesh",
+    "district": "sri-potti-sriramulu-nellore",
+    "subdistrict": "sydapuram",
+    "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407"
+  },
+  "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407",
+  "gallery": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "videos": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "about": ""
+}
